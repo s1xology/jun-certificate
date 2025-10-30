@@ -8,5 +8,5 @@ The files here (e.g., images of certificates) are publicly accessible so that th
 - All content is for professional showcasing purposes only.
 
 ## Certificates
-1. Tableau Workshop Certificate of Participation - [Image](https://raw.githubusercontent.com/你的用户名/certificates/main/aws-certificate.jpg)
+1. Tableau Workshop Certificate of Participation - [Image](https://github.com/s1xology/jun-certificate/blob/main/Tableau-Workshop-Certificate-of-Participation-Zhengjun-An.png?raw=true)
 2. 

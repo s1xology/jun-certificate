@@ -10,6 +10,7 @@ This repository is used solely to host my professional certificates for display 
 
 ## Certificates
 1. [SnowPro® Associate: Platform Certification](https://github.com/s1xology/jun-certificate/blob/main/SnowPro-Associate-Platform-Certification-Zhengjun-An.png?raw=true)
+2. [UT Dallas Graduate Certificate in Applied Machine Learning](https://github.com/s1xology/jun-certificate/blob/main/UTD-Graduate-Certificate-in-Applied-Machine-Learning.pdf)
 
 
 ## Courses & Workshops

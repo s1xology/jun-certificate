@@ -9,7 +9,7 @@ This repository is used solely to host my professional certificates for display 
 - Files in this repository (e.g., certificate images) are publicly accessible via direct links.  
 
 ## Certificates
-1. [SnowPro® Associate: Platform Certification](https://github.com/s1xology/jun-certificate/blob/main/certificates/Snowflake-SnowPro-Associate-Platform.png?raw=true)
+1. [SnowPro Associate: Platform Certification](https://github.com/s1xology/jun-certificate/blob/main/certificates/Snowflake-SnowPro-Associate-Platform.png?raw=true)
 2. [Docker Foundations Professional Certificate](https://github.com/s1xology/jun-certificate/blob/main/certificates/Docker-Foundations-Professional-Certificate.png?raw=true)
 3. [UT Dallas Graduate Certificate in Applied Machine Learning](https://github.com/s1xology/jun-certificate/blob/main/certificates/UTD-Graduate-Certificate-in-Applied-Machine-Learning.png?raw=true)
 4. [Datacamp SQL Associate](https://github.com/s1xology/jun-certificate/blob/main/certificates/Datacamp-SQL-Associate.png?raw=true)

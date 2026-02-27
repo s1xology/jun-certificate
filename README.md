@@ -9,10 +9,11 @@ This repository is used solely to host my professional certificates for display 
 - Files in this repository (e.g., certificate images) are publicly accessible via direct links.  
 
 ## Certificates
-1. [SnowPro® Associate: Platform Certification](https://github.com/s1xology/jun-certificate/blob/main/SnowPro-Associate-Platform-Certification-Zhengjun-An.png?raw=true)
-2. [UT Dallas Graduate Certificate in Applied Machine Learning](https://github.com/s1xology/jun-certificate/blob/main/UTD-Graduate-Certificate-in-Applied-Machine-Learning.png?raw=true)
+1. [SnowPro® Associate: Platform Certification](https://github.com/s1xology/jun-certificate/blob/main/certificates/Snowflake-SnowPro-Associate-Platform.png?raw=true)
+2. [UT Dallas Graduate Certificate in Applied Machine Learning](https://github.com/s1xology/jun-certificate/blob/main/certificates/UTD-Graduate-Certificate-in-Applied-Machine-Learning.png?raw=true)
+3. [Datacamp SQL Associate](https://github.com/s1xology/jun-certificate/blob/main/certificates/Datacamp-SQL-Associate.png?raw=true)
 
 
 ## Courses & Workshops
-1. [Tableau Workshop Certificate of Participation](https://github.com/s1xology/jun-certificate/blob/main/Tableau-Workshop-Certificate-of-Participation-Zhengjun-An.png?raw=true)
-2. [datacamp Intermediate R Statement of Accomplishment](https://github.com/s1xology/jun-certificate/blob/main/datacamp-Intermediate-R-Statement-of-Accomplishment-Zhengjun-An.png?raw=true)
+1. [Tableau Workshop Certificate of Participation](https://github.com/s1xology/jun-certificate/blob/main/courses%26workshops/Tableau-Workshop-Certificate-of-Participation.png?raw=true)
+2. [Datacamp Intermediate R Statement of Accomplishment](https://github.com/s1xology/jun-certificate/blob/main/courses%26workshops/Datacamp-Intermediate-R-Statement-of-Accomplishment.png?raw=true)

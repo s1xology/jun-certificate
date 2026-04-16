@@ -18,3 +18,7 @@ This repository is used solely to host my professional certificates for display 
 ## Courses & Workshops
 1. [Tableau Workshop Certificate of Participation](https://github.com/s1xology/jun-certificate/blob/main/courses%26workshops/Tableau-Workshop-Certificate-of-Participation.png?raw=true)
 2. [Datacamp Intermediate R Statement of Accomplishment](https://github.com/s1xology/jun-certificate/blob/main/courses%26workshops/Datacamp-Intermediate-R-Statement-of-Accomplishment.png?raw=true)
+
+
+## Honors & Awards
+1. [UTD Scholar with High Distinction](https://github.com/s1xology/jun-certificate/blob/main/honors%26awards/UTD-Scholar-with-High-Distinction.png?raw=true)
